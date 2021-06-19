@@ -22,6 +22,7 @@ under the License.
 
 == TL;DR
 
+
 Before we dive deeper, let's take a minute to familiarize ourselves with the Hop lingo.
 
 **Metadata** is by far the most important concept in all of Hop. Every item we'll cover below is defined as metadata. All interactions between Hop and other components in your data architecture are done through metadata. _Metadata is at the core of **everything** in Hop_.
